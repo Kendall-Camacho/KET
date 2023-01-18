@@ -5,7 +5,7 @@ import {
   About,
   Contact,
   Footer,
-  Portfolio,
+  Challenges,
   Services,
 } from "./components/";
 
@@ -16,7 +16,7 @@ const App = () => {
       <Navbar />
       <About/>
       <Services/>
-      <Portfolio/>
+      <Challenges/>
      <Contact/>
       <Footer/>
     </div>
